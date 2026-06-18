@@ -173,7 +173,7 @@ A project demonstrating the use of HTML semantic tags for structured web pages.
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone Jyothsna007-nsg/Web-Development-Projects
 ```
 
 2. Open any project folder.
